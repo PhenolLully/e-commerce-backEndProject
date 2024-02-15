@@ -5,9 +5,13 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+  My motivation was to show that I understand how to complete a backend part of a project
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+  I built this project in order to understand how ORM really works for my own understanding
 - What problem does it solve?
+  The problem it solves is completing the backend aspect of this E-Commerce project
 - What did you learn?
+  I learned that connecting routes is not as difficult as I thought I just know that I still have a lot to improve on.
 
 ## Installation
 
@@ -22,7 +26,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     
-  ![EccomScreenshot](./Main/assets/images/eccom.jpg)
+  ![CategoryScreenshot](./Main/assets/images/categories.png)
+  ![ProductScreenshot](./Main/assets/images/products.png)
+  ![TagScreenshot](./Main/assets/images/tags.png)
     
 
 ## Credits
