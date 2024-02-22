@@ -26,9 +26,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     
-  ![CategoryScreenshot](./Main/assets/images/categories.png)
-  ![ProductScreenshot](./Main/assets/images/products.png)
-  ![TagScreenshot](./Main/assets/images/tags.png)
+  ![CategoryScreenshot](./assets/images/categories.png)
+  ![ProductScreenshot](./assets/images/products.png)
+  ![TagScreenshot](./assets/images/tags.png)
     
 
 ## Credits
